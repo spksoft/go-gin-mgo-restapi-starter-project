@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
-	"github.com/go-gin-mgo-restapi-starter-project/src/models/topicModel"
+	"github.com/spksoft/go-gin-mgo-restapi-starter-project/src/models/topicModel"
 	"gopkg.in/mgo.v2/bson"
 )
 

@@ -6,9 +6,9 @@ import (
 
 	"github.com/fvbock/endless"
 	"github.com/gin-gonic/gin"
-	"github.com/go-gin-mgo-restapi-starter-project/src/db"
-	"github.com/go-gin-mgo-restapi-starter-project/src/middlewares"
 	"github.com/joho/godotenv"
+	"github.com/spksoft/go-gin-mgo-restapi-starter-project/src/db"
+	"github.com/spksoft/go-gin-mgo-restapi-starter-project/src/middlewares"
 )
 
 func loadENV() {
