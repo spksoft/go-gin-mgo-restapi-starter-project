@@ -15,5 +15,6 @@ $ go run ./src/main.go ./src/routers.go
 ### Build it
 ```
 $ govendor sync
-$ go build -o ./service-advisor ./src/
+$ go build -o ./runablefile ./src/
+$ ./runablefile
 ```
